@@ -1,0 +1,35 @@
+1-> Basic start of a problem
+2-> Greater of 2 numbers
+3-> EvenNumbers addition
+4-> working with operators
+5-> Run with operators
+6-> Bonus
+7-> performance calculator
+8-> Rockstar problem
+9-> Sitatuion of a Number
+10->Attendance
+11->Categories
+12->DaysinMonths
+13->FizBuzz
+14->Grade calculator
+15->Maximum of three numbers
+16->Months
+17->Sold Music
+18->print N
+19-> Print N -1
+20->Odd numbers
+21->Even numbers
+22 -> Natural number addition
+23->Sum of ODD numbers
+24->Sum of Even numbers
+25->Numbers divided by 4
+26-> Multiplication table
+27-> A power B
+28-> Minumum of three numbers
+29->Valid Triangle
+30->Maximum slip
+31-> Leap year
+32-> Largest sum
+33-> Bank balance
+34->Marks
+
