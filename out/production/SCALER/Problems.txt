@@ -31,3 +31,10 @@
 31-> Leap year
 32-> Largest sum
 33-> Bank balance
+34->Marks
+35->Triangle
+36->Coding rating
+37->PACMAN
+38->Divide by methods
+39->Single line
+
