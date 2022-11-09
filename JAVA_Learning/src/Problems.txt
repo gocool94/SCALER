@@ -37,4 +37,8 @@
 37->PACMAN
 38->Divide by methods
 39->Single line
+40->Odd digit sum & Even digit sum
+41->Count of Digits
+42->bank account
+
 
