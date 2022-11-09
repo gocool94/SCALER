@@ -40,5 +40,7 @@
 40->Odd digit sum & Even digit sum
 41->Count of Digits
 42->bank account
+43->SumofOddindexEvenindex
+44->Armstrong number
 
 
