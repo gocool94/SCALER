@@ -42,5 +42,9 @@
 42->bank account
 43->SumofOddindexEvenindex
 44->Armstrong number
-
-
+45->Perfect Square
+46->Sum of numbers
+47->Divisible of 4
+48->Natural numbers from 1 to N
+49->Natural numbers from N to 1
+50->EvenNumbers
