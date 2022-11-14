@@ -49,9 +49,9 @@
 49->Natural numbers from N to 1
 50->EvenNumbers
 51->Multiplication table
-52->Sum of natural numbers functions
-53->using functions sum of even numbers
-
+52->Sum of natural numbers
+53->Banking Operations
+54->Odd numbers from N
 
 
 
