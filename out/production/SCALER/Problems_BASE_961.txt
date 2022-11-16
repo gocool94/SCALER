@@ -49,13 +49,7 @@
 49->Natural numbers from N to 1
 50->EvenNumbers
 51->Multiplication table
-52->Sum of natural numbers functions
-53->using functions sum of even numbers
-54->Sum of odds
-55->multiplication_powers
-56-> prime numbers
-57->GCD of two numbers
-58->LCM - least common multiple
+52->Sum of natural numbers
 
 
 
