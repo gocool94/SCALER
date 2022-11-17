@@ -56,6 +56,7 @@
 56-> prime numbers
 57->GCD of two numbers
 58->LCM - least common multiple
+59->First and last number
 
 
 
