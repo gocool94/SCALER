@@ -57,6 +57,8 @@
 57->GCD of two numbers
 58->LCM - least common multiple
 59->First and last number
+60->Get only one prime number
+61->print pattern
 
 
 
