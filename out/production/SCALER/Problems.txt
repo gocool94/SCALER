@@ -59,6 +59,11 @@
 59->First and last number
 60->Get only one prime number
 61->print pattern
+62-> Reverse a number program
+63->pattern odd numbers
+
+
+
 
 
 
