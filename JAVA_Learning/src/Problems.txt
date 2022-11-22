@@ -61,7 +61,10 @@
 61->print pattern
 62-> Reverse a number program
 63->pattern odd numbers
-
+64->Inverted half pyraming
+65->leading spaces pyramid
+66->Spaces with pyramid
+67->Right down pattern
 
 
 

@@ -61,8 +61,7 @@
 61->print pattern
 62-> Reverse a number program
 63->pattern odd numbers
-
-
+64->Inverted half pyraming
 
 
 
