@@ -65,6 +65,8 @@
 65->leading spaces pyramid
 66->Spaces with pyramid
 67->Right down pattern
+68->inverted stairs
+69->Pyramid
 
 
 
