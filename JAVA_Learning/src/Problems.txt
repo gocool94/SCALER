@@ -67,6 +67,8 @@
 67->Right down pattern
 68->inverted stairs
 69->Pyramid
+70->Evenly divide integers
+71-> ARea of a circle
 
 
 
