@@ -68,7 +68,11 @@
 68->inverted stairs
 69->Pyramid
 70->Evenly divide integers
-
+71-> ARea of a circle
+72-> Even numbers addition
+73->Mangoes
+74->Array
+75->Negative number sort in an array
 
 
 
