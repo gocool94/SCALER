@@ -16,18 +16,18 @@ public class Array_MaxMin {
         }
 
         int Max = 0;
-
-
         int Min = Array[0];
-
         System.out.println(Max+" "+Min);
 
         for (int i = 0;i<Array.length;i++){
+            System.out.println(Min+" > "+Array[i]);
             if (Min>Array[i]){
                 System.out.println(Min<=Array[i]);
                 Min = Array[i];
                 System.out.println(Min+"Minimum value");
             }
+            System.out.println(Max+" < "+Array[i]);
+
             if (Max<Array[i]){
                 System.out.println(Array[i]);
                 Max = Array[i];

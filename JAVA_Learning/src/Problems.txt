@@ -73,6 +73,11 @@
 73->Mangoes
 74->Array
 75->Negative number sort in an array
+76->print matrix coulmn by column
+77->Number of Even Odd
+78->ArrayList1
+79->ArrayList problems check
+80->searching
 
 
 
